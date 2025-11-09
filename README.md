@@ -1,4 +1,4 @@
-We are predicting the normalized power output of the turbine.
+We are predicting the normalized power output of a wind turbine.
 The model predicts the turbine's efficiency/production level, normalized between 0 and 1.
 Our objective is power forecasting/prediction in a normalized range.
 
